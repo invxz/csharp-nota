@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\bin\Debug\net6.0\desafiomaneirao.exe
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\bin\Debug\net6.0\desafiomaneirao.deps.json
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\bin\Debug\net6.0\desafiomaneirao.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\bin\Debug\net6.0\desafiomaneirao.dll
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\bin\Debug\net6.0\desafiomaneirao.pdb
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.dll
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\refint\desafiomaneirao.dll
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.pdb
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\desafiomaneirao.genruntimeconfig.cache
+C:\Users\logonrmlocal\source\repos\desafiomaneirao\desafiomaneirao\obj\Debug\net6.0\ref\desafiomaneirao.dll
